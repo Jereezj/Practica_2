@@ -16,7 +16,7 @@ namespace Burguer
             const double precioburguer = 45;
             const double preciobebida = 15;
             const double preciopapas = 20;
-
+        
             //hamburguesa
             Console.WriteLine("Ingrese la cantidad de Hamburguesas");
             linea = Console.ReadLine();
