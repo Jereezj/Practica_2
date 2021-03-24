@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifChar", "ifChar\ifChar.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormaPago", "FormaPago\FormaPago.csproj", "{36C346EE-C5B4-4223-9D06-EEDD1FFDAFFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatStore", "CatStore\CatStore.csproj", "{BAB08D7F-1751-4927-8B96-D2C1689B8272}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{36C346EE-C5B4-4223-9D06-EEDD1FFDAFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36C346EE-C5B4-4223-9D06-EEDD1FFDAFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36C346EE-C5B4-4223-9D06-EEDD1FFDAFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB08D7F-1751-4927-8B96-D2C1689B8272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB08D7F-1751-4927-8B96-D2C1689B8272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB08D7F-1751-4927-8B96-D2C1689B8272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB08D7F-1751-4927-8B96-D2C1689B8272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
